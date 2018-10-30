@@ -1,0 +1,1 @@
+# conan-qt-module-svg
